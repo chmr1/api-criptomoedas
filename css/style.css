@@ -1,0 +1,14 @@
+.margin {
+    padding-top: 15px;
+    margin-bottom: 5px;
+}
+
+.borda {
+    border: 1px gray solid;
+}
+
+.dt-hist-ini {
+    padding-top: 50px;
+    text-align: right;
+    font-size: 10px;
+}
